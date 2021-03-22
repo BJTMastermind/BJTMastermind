@@ -1,4 +1,4 @@
-### Hello, I am BTJMastermind
+### Hello, I am BJTMastermind
 
 * I started programming in 2017-2018.
 * My favorite language is Java.
