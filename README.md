@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello, I am BTJMastermind
 
-<!--
-**BJTMastermind/BJTMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I started programming in 2017-2018.
+* My favorite language is Java.
+* My editor of choice for Java is Eclipse and VSCode for everything else.
+  
+### Maintained Projects
+* [UMRC](https://www.github.com/BJTMastermind/UMRC)
+* [Indev To Infdev World Converter](https://www.github.com/BJTMastermind/Indev-To-Infdev-World-Converter)
 
-Here are some ideas to get you started:
+### Current Projects
+* [UMRC](https://www.github.com/BJTMastermind/UMRC)
+* [Indev To Infdev World Converter](https://www.github.com/BJTMastermind/Indev-To-Infdev-World-Converter)
+* [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)<br>
+And More...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCiFDXb0SDboAOyZOzQHjw2w"><img width=36 height=32 alt="Youtube" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png"></a><br>
+Subscribe To My YouTube Channel
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BJTMastermind&count_private=true&show_icons=true&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJTMastermind&layout=compact&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+</p>
