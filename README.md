@@ -20,6 +20,6 @@ Subscribe To My YouTube Channel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BJTMastermind&count_private=true&show_icons=true&bg_color=0d1117&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJTMastermind&layout=compact&bg_color=0d1117&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api?username=BJTMastermind&count_private=true&show_icons=true&bg_color=00000000&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJTMastermind&layout=compact&bg_color=00000000&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
 </p>
