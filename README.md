@@ -6,11 +6,11 @@
   
 ### Maintained Projects
 * [UMRC](https://www.github.com/BJTMastermind/UMRC)
-* [Indev To Infdev World Converter](https://www.github.com/BJTMastermind/Indev-To-Infdev-World-Converter)
+* [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 
 ### Current Projects
 * [UMRC](https://www.github.com/BJTMastermind/UMRC)
-* [Indev To Infdev World Converter](https://www.github.com/BJTMastermind/Indev-To-Infdev-World-Converter)
+* [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 * [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)<br>
 And More...
 
