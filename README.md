@@ -5,14 +5,18 @@
 * My editor of choice for Java is Eclipse and VSCode for everything else.
   
 ### Maintained Projects
-* [UMRC](https://www.github.com/BJTMastermind/UMRC)
-* [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
+* [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
 
 ### Current Projects
-* [UMRC](https://www.github.com/BJTMastermind/UMRC)
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
-* [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)<br>
-And More...
+* [pyMCDyes](https://www.github.com/BJTMastermind/pyMCDyes)
+* [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
+* [Slicer-And-Merger](https://www.github.com/BJTMastermind/Slicer-And-Merger)
+
+### Depercated Projects
+* [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter) (Java)
+* [ChatClient](https://www.github.com/BJTMastermind/ChatClient)
+* [UMRC](https://www.github.com/BJTMastermind/UMRC) (Rust)
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCiFDXb0SDboAOyZOzQHjw2w"><img width=36 height=32 alt="Youtube" src="https://github.com/BJTMastermind/BJTMastermind/blob/main/youtube-512.png"></a><br>
