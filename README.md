@@ -11,7 +11,7 @@
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 * [pyMCDyes](https://www.github.com/BJTMastermind/pyMCDyes)
 * [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
-* [Slicer-And-Merger](https://www.github.com/BJTMastermind/Slicer-And-Merger)
+* [slicer](https://www.github.com/BJTMastermind/slicer)
 
 ### Depercated Projects
 * [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter) (Java)
