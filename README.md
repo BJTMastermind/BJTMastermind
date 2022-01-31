@@ -2,7 +2,7 @@
 
 * I started programming in 2017-2018.
 * My favorite language is Java.
-* My editor of choice for Java is Eclipse and VSCode for everything else.
+* My editor of choice for Java is Eclipse and [VSCodium](https://vscodium.com/) for everything else.
   
 ### Maintained Projects
 * [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
