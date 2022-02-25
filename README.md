@@ -11,12 +11,10 @@
 ### Current Projects
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 * [pyMCDyes](https://www.github.com/BJTMastermind/pyMCDyes)
-* [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
 
 ### Depercated Projects
-* [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter) (Java)
+* [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter)
 * [ChatClient](https://www.github.com/BJTMastermind/ChatClient)
-* [UMRC](https://www.github.com/BJTMastermind/UMRC) (Rust)
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCiFDXb0SDboAOyZOzQHjw2w"><img width=36 height=32 alt="Youtube" src="https://github.com/BJTMastermind/BJTMastermind/blob/main/youtube-512.png"></a><br>
