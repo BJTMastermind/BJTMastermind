@@ -15,7 +15,6 @@
 
 ### Depercated Projects
 * [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter)
-* [simple-nbt](https://www.github.com/BJTMastermind/simple-nbt) (In favor of original, now that it fully supports Bedrock)
 
 <!--
 <p align="center">
