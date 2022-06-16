@@ -13,7 +13,7 @@
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 * [pyMCDyes](https://www.github.com/BJTMastermind/pyMCDyes)
 
-### Depercated Projects
+### Discontinued / Depercated Projects
 * [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter)
 
 <!--
