@@ -10,6 +10,7 @@
 * [slicer](https://www.github.com/BJTMastermind/slicer)
 
 ### Current Projects
+* [Minecraft Manipulator](https://github.com/EternalModz/Minecraft-Manipulator) (Contributing)
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 * [pyMCDyes](https://www.github.com/BJTMastermind/pyMCDyes)
 
