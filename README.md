@@ -7,7 +7,6 @@
   
 ### Maintained Projects
 * [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
-* [slicer](https://www.github.com/BJTMastermind/slicer)
 
 ### Current Projects
 * [Minecraft Manipulator](https://github.com/EternalModz/Minecraft-Manipulator) (Contributing)
@@ -16,6 +15,7 @@
 
 ### Discontinued / Depercated Projects
 * [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter)
+* [slicer](https://www.github.com/BJTMastermind/slicer)
 
 <!--
 <p align="center">
