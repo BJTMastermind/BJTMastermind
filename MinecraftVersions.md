@@ -6,7 +6,7 @@
 ### 7th Gen Consoles
 - [x] Minecraft: Xbox 360 Edition
 - [x] Minecraft: Playstation 3 Edition
-- [ ] Minecraft: PS Vita Edition
+- [x] Minecraft: PS Vita Edition
 - [x] Minecraft: Wii U Edition
 ### 8th Gen Consoles
 - [x] Minecraft: Xbox One Edition
