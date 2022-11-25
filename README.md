@@ -2,7 +2,7 @@
 
 * I started programming in January of 2018.
 * My favorite language is Java.
-* My editor of choice for Java is Eclipse and [VSCodium](https://vscodium.com/) for everything else.
+* My editor of choice is [VSCodium](https://vscodium.com/) for every language.
 * All things Minecraft are kind of my thing. If you don't believe me you can look at my Minecraft collection [Here](./MinecraftVersions.md)
   
 ### Maintained Projects
