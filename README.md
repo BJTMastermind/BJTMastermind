@@ -9,12 +9,12 @@
 * [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
 
 ### Current Projects
+* Minecraft-Resource-Converter (Official successor to Universal-Minecraft-Resource-Converter) (Coming Soon!)
 * [Minecraft Manipulator](https://github.com/EternalModz/Minecraft-Manipulator) (Contributing)
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
-* [pyMCDyes](https://www.github.com/BJTMastermind/pyMCDyes)
 
 ### Discontinued / Depercated Projects
-* [Universal-Minecraft-Resource-Converter](https://www.github.com/BJTMastermind/Universal-Minecraft-Resource-Converter)
+* ~~Universal-Minecraft-Resource-Converter~~ (Privated for now)
 * [slicer](https://www.github.com/BJTMastermind/slicer)
 
 <!--
