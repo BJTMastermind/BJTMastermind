@@ -13,7 +13,7 @@
 * [Minecraft Manipulator](https://github.com/EternalModz/Minecraft-Manipulator) (Contributing)
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 
-### Discontinued / Depercated Projects
+### Discontinued / Deprecated Projects
 * ~~Universal-Minecraft-Resource-Converter~~ (Privated for now)
 * [slicer](https://www.github.com/BJTMastermind/slicer)
 
