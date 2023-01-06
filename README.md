@@ -10,7 +10,7 @@
 
 ### Current Projects
 * Minecraft-Resource-Converter (Official successor to Universal-Minecraft-Resource-Converter) (Coming Soon!)
-* [Minecraft Manipulator](https://github.com/EternalModz/Minecraft-Manipulator) (Contributing)
+* [Minecraft Manipulator](https://github.com/The-Minecraft-Manipulator-Team/Minecraft-Manipulator) (Contributing)
 * [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
 
 ### Discontinued / Deprecated Projects
