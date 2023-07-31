@@ -5,16 +5,11 @@
 * My editor of choice is [VSCodium](https://vscodium.com/) for every language.
 * All things Minecraft are kind of my thing. If you don't believe me you can look at my Minecraft collection [Here](./MinecraftVersions.md)
   
-### Maintained Projects
-* [Custom Blocks API](https://www.github.com/BJTMastermind/Custom-Blocks-API)
-
-### Current Projects
-<!--* Minecraft-Resource-Converter (Official successor to Universal-Minecraft-Resource-Converter) (Coming Soon!)-->
-* [Minecraft Manipulator](https://github.com/The-Minecraft-Manipulator-Team/Minecraft-Manipulator) (Contributing)
-* [Indev Updater](https://www.github.com/BJTMastermind/Indev-Updater)
-
-### Discontinued / Deprecated Projects
+### Discontinued Projects
 * [slicer](https://www.github.com/BJTMastermind/slicer)
+
+### Contributing To
+* [Minecraft Manipulator](https://github.com/The-Minecraft-Manipulator-Team/Minecraft-Manipulator)
 
 <!--
 <p align="center">
