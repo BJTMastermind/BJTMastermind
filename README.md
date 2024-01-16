@@ -9,7 +9,7 @@
 * [slicer](https://www.github.com/BJTMastermind/slicer)
 
 ### Contributing To
-* [Minecraft Manipulator](https://github.com/The-Minecraft-Manipulator-Team/Minecraft-Manipulator)
+* [Project Lodestone](https://github.com/Team-Lodestone/Documentation)
 
 <!--
 <p align="center">
