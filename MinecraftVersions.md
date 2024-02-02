@@ -10,7 +10,7 @@
 - [x] Minecraft: Wii U Edition (Physical Copy)
 ### 8th Gen Consoles
 - [x] Minecraft: Xbox One Edition (Digital Copy)
-- [x] Minecraft: Playstation 4 Edition
+- [x] Minecraft: Playstation 4 Edition (Physical Copy)
 ### 9th Gen Consoles
 - [x] Minecraft: Nintendo Switch Edition (Digital Copy)
 ### Misc Consoles
