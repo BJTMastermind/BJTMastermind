@@ -5,11 +5,10 @@
 * My editor of choice is [VSCodium](https://vscodium.com/) for every language.
 * All things Minecraft are kind of my thing. If you don't believe me you can look at my Minecraft collection [Here](./MinecraftVersions.md)
   
-### Discontinued Projects
-* [slicer](https://www.github.com/BJTMastermind/slicer)
+### Member of [Team Lodestone](https://github.com/Team-Lodestone)
 
-### Contributing To
-* [Project Lodestone](https://github.com/Team-Lodestone/Documentation)
+### Contributed To
+* [Logical Zoom](https://github.com/LogicalGeekBoy/logical_zoom)
 
 <!--
 <p align="center">
