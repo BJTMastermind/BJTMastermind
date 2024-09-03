@@ -5,14 +5,16 @@
 - [x] Minecraft: Raspberry Pi Edition 
 ### 7th Gen Consoles
 - [x] Minecraft: Xbox 360 Edition (Digital Copy)
+- [ ] Minecraft: Xbox 360 Edition (Physical Copy) (As backup for digital copy)
 - [x] Minecraft: Playstation 3 Edition (Physical Copy)
 - [x] Minecraft: PS Vita Edition (Physical Copy)
 - [x] Minecraft: Wii U Edition (Physical Copy)
 ### 8th Gen Consoles
 - [x] Minecraft: Xbox One Edition (Digital Copy)
+- [ ] Minecraft: Xbox One Edition (Physical Copy) (As backup for digital copy)
 - [x] Minecraft: Playstation 4 Edition (Physical Copy)
 ### 9th Gen Consoles
-- [x] Minecraft: Nintendo Switch Edition (Digital Copy)
+- [x] Minecraft: Nintendo Switch Edition (Digital Only)
 ### Misc Consoles
 - [x] Minecraft: \*New* Nintendo 3DS Edition (Physical Copy)   
 
