@@ -20,5 +20,5 @@ Subscribe To My YouTube Channel
 
 [![BJTMastermind's Stats](https://github-readme-stats.vercel.app/api?username=BJTMastermind&show_icons=true&bg_color=00000000&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJTMastermind&hide=html,css,javascript&show_icons=true&bg_color=00000000&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJTMastermind&hide=html,css,javascript,python&show_icons=true&bg_color=00000000&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
