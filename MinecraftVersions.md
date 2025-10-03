@@ -18,11 +18,11 @@
 ### Misc Consoles
 - [x] Minecraft: \*New* Nintendo 3DS Edition (Physical Copy)   
 
-# Computers/Consoles I Own / Still Need For Above
+# Devices I Own / Still Need For Above
 - [x] Raspberry Pi
 - [x] Xbox 360
 - [x] Xbox One
-- [ ] PS3
+- [x] PS3
 - [ ] PS Vita
 - [ ] PS4
 - [x] Wii U
