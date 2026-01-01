@@ -23,7 +23,7 @@
 - [x] Xbox 360
 - [x] Xbox One
 - [x] PS3
-- [ ] PS Vita
+- [x] PS Vita
 - [ ] PS4
 - [x] Wii U
 - [x] Nintendo Switch
